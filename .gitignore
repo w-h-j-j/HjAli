@@ -1,3 +1,10 @@
+### Maven ###
+target/
+dependency-reduced-pom.xml
+
+### 草稿目录 ###
+scratch/
+
 ### IntelliJ IDEA ###
 .idea/
 out/
